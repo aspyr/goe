@@ -1,0 +1,3 @@
+<h1>Bayview Gardens Town Hall</h1>
+<p>300 Garber Ln, East Peoria, IL 61611</p>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=40.810638,-89.519482&amp;num=1&amp;t=h&amp;sll=40.810789,-89.520223&amp;sspn=0.002371,0.004769&amp;hl=en&amp;ie=UTF8&amp;ll=40.810707,-89.519573&amp;spn=0.002371,0.004769&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?q=40.810638,-89.519482&amp;num=1&amp;t=h&amp;sll=40.810789,-89.520223&amp;sspn=0.002371,0.004769&amp;hl=en&amp;ie=UTF8&amp;ll=40.810707,-89.519573&amp;spn=0.002371,0.004769&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
